@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @newbiedeveloper968
-- 👀 I’m interested in Astrophysics :>
-- 🌱 I’m currently learning Python.
+- 👋 Hi, I’m a newbie developer who is trying his best to help someone with his dumb little brain.
+- 👀 I love Mathematics more than anything :>
+- 🌱 I’m currently studying A levels.
 - 📫 How to reach me: newbiedeveloper968@gmail.com
 - ⚡ Fun fact: Can spent centuries to find bugs >_<
 
